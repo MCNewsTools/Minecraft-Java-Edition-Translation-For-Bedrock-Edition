@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Minecraft Java Edition Translation For Bedrock Edition",
+        "name": "GoneTone Server Resource Pack",
+        "uuid": "2032396d-a214-dbe5-9733-d76078a09c78",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "Minecraft Java Edition Translation For Bedrock Edition",
+            "type": "resources",
+            "uuid": "e8ed249c-2a39-1747-81bf-368111690b35",
+            "version": [0, 0, 1]
+        }
+    ]
+}
